@@ -11,6 +11,7 @@
 - [christian-brauner-file-descriptors-for-processes.pdf](tuebix-2019-christian-brauner-file-descriptors-for-processes.pdf)
 - [christian-seiler-real-time-anwendungen-unter-linux-lessons-learned.pdf](tuebix-2019-christian-seiler-real-time-anwendungen-unter-linux-lessons-learned.pdf)
 - [christoph-zimmermann-redis-ist-10.pdf](tuebix-2019-christoph-zimmermann-redis-ist-10.pdf)
+- [daniel-kobras-dateidienste-sicher-und-alltagstauglich.pdf](tuebix-2019-daniel-kobras-dateidienste-sicher-und-alltagstauglich.pdf)
 - [daniel-kulesz-indieweb-grundlagen-und-erste-schritte.pdf](tuebix-2019-daniel-kulesz-indieweb-grundlagen-und-erste-schritte.pdf)
 - [daniel-kulesz-software-testen-ja-bitte.pdf](tuebix-2019-daniel-kulesz-software-testen-ja-bitte.pdf)
 - [edgar-olijar-ctf-wtf-hacking-for-fun-and-profit.pdf](tuebix-2019-edgar-olijar-ctf-wtf-hacking-for-fun-and-profit.pdf)
