@@ -40,6 +40,7 @@
 - [rainer-grimm-c++20-die-revolution-geht-weiter.pdf](tuebix-2019-rainer-grimm-c++20-die-revolution-geht-weiter.pdf)
 - [robin-bertram-coreboot-libreboot-die-open-source-bios-alternative.pdf](tuebix-2019-robin-bertram-coreboot-libreboot-die-open-source-bios-alternative.pdf)
 - [robin-bertram-heads-verifizierbarer-bootprozess-mit-coreboot-linux-und-einmalpasswoertern.pdf](tuebix-2019-robin-bertram-heads-verifizierbarer-bootprozess-mit-coreboot-linux-und-einmalpasswoertern.pdf)
+- [sebastian-niedworok-open-source-ecology.pdf](tuebix-2019-sebastian-niedworok-open-source-ecology.pdf)
 - [sonja-goettler-der-berechtigte-hype-um-agile-softwareentwicklung.pdf](tuebix-2019-sonja-goettler-der-berechtigte-hype-um-agile-softwareentwicklung.pdf)
 - [stefan-baur-x2go-in-der-google-cloud-kostenlos-und-oder-anonym-wie-geht-das.pdf](tuebix-2019-stefan-baur-x2go-in-der-google-cloud-kostenlos-und-oder-anonym-wie-geht-das.pdf)
 - [thorsten-leemhuis-aktuelle-entwicklungen-beim-linux-kernel.pdf](tuebix-2019-thorsten-leemhuis-aktuelle-entwicklungen-beim-linux-kernel.pdf)
