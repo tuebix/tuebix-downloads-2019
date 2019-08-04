@@ -8,12 +8,11 @@
 - [andreas-grupp-verwendung-der-nextcloud-ocs-api.pdf](tuebix-2019-andreas-grupp-verwendung-der-nextcloud-ocs-api.pdf)
 - [anton-mueller-aur-packages-selbst-mit-hilfe-von-docker-bauen-testen-und-veroeffentlichen.pdf](tuebix-2019-anton-mueller-aur-packages-selbst-mit-hilfe-von-docker-bauen-testen-und-veroeffentlichen.pdf)
 - [arnd-bergmann-the-end-of-time-19-years-to-go.pdf](tuebix-2019-arnd-bergmann-the-end-of-time-19-years-to-go.pdf)
-- [axel-beckert-was-gibt-es-neues-in-debian-10-buster.pdf](tuebix-2019-axel-beckert-was-gibt-es-neues-in-debian-10-buster.pdf)
+- [axel-beckert-was-gibt-es-neues-in-debian-10-buster.html](tuebix-2019-axel-beckert-was-gibt-es-neues-in-debian-10-buster.html)
 - [christian-brauner-file-descriptors-for-processes.pdf](tuebix-2019-christian-brauner-file-descriptors-for-processes.pdf)
 - [christian-seiler-real-time-anwendungen-unter-linux-lessons-learned.pdf](tuebix-2019-christian-seiler-real-time-anwendungen-unter-linux-lessons-learned.pdf)
 - [christoph-zimmermann-redis-ist-10.pdf](tuebix-2019-christoph-zimmermann-redis-ist-10.pdf)
 - [daniel-kobras-dateidienste-sicher-und-alltagstauglich.pdf](tuebix-2019-daniel-kobras-dateidienste-sicher-und-alltagstauglich.pdf)
-- [daniel-kraft-linux-command-line-interface-trick-show.cast](tuebix-2019-daniel-kraft-linux-command-line-interface-trick-show.cast)
 - [daniel-kulesz-indieweb-grundlagen-und-erste-schritte.pdf](tuebix-2019-daniel-kulesz-indieweb-grundlagen-und-erste-schritte.pdf)
 - [daniel-kulesz-software-testen-ja-bitte.pdf](tuebix-2019-daniel-kulesz-software-testen-ja-bitte.pdf)
 - [edgar-olijar-ctf-wtf-hacking-for-fun-and-profit.pdf](tuebix-2019-edgar-olijar-ctf-wtf-hacking-for-fun-and-profit.pdf)
@@ -42,7 +41,6 @@
 - [michael-weiss-nixos-ein-ueberblick.pdf](tuebix-2019-michael-weiss-nixos-ein-ueberblick.pdf)
 - [peter-hrenka-minecraft-hacking-for-beginners.pdf](tuebix-2019-peter-hrenka-minecraft-hacking-for-beginners.pdf)
 - [rainer-grimm-c++20-die-revolution-geht-weiter.pdf](tuebix-2019-rainer-grimm-c++20-die-revolution-geht-weiter.pdf)
-- [reinhard-mueller-webanwendungen-erstellen-mit-python-sqlalchemy-und-flask.tar.gz](tuebix-2019-reinhard-mueller-webanwendungen-erstellen-mit-python-sqlalchemy-und-flask.tar.gz)
 - [robert-scheck-schonmal-systemd-networkd-ausprobiert.pdf](tuebix-2019-robert-scheck-schonmal-systemd-networkd-ausprobiert.pdf)
 - [robin-bertram-coreboot-libreboot-die-open-source-bios-alternative.pdf](tuebix-2019-robin-bertram-coreboot-libreboot-die-open-source-bios-alternative.pdf)
 - [robin-bertram-heads-verifizierbarer-bootprozess-mit-coreboot-linux-und-einmalpasswoertern.pdf](tuebix-2019-robin-bertram-heads-verifizierbarer-bootprozess-mit-coreboot-linux-und-einmalpasswoertern.pdf)
@@ -57,6 +55,13 @@
 - [uli-kleemann-ich-habe-doch-nichts-zu-verbergen.pdf](tuebix-2019-uli-kleemann-ich-habe-doch-nichts-zu-verbergen.pdf)
 - [volker-matheis-raspberrypi-to-thinclient.pdf](tuebix-2019-volker-matheis-raspberrypi-to-thinclient.pdf)
 - [werner-heuser-linux-zertifizierungen-ein-ueberblick.pdf](tuebix-2019-werner-heuser-linux-zertifizierungen-ein-ueberblick.pdf)
+
+## Downloads
+
+- [daniel-kraft-linux-command-line-interface-trick-show.cast](tuebix-2019-daniel-kraft-linux-command-line-interface-trick-show.cast)
+- [frank-hofmann-harald-koenig-sieben-bruecken-fahrtenbuch-mit-skripten-auslesen.zip](tuebix-2019-frank-hofmann-harald-koenig-sieben-bruecken-fahrtenbuch-mit-skripten-auslesen.zip)
+- [harald-koenig-den-flaschenhals-in-einer-langsamen-pipe-optimieren-durch-parallelisierung.zip](tuebix-2019-harald-koenig-den-flaschenhals-in-einer-langsamen-pipe-optimieren-durch-parallelisierung.zip)
+- [reinhard-mueller-webanwendungen-erstellen-mit-python-sqlalchemy-und-flask.tar.gz](tuebix-2019-reinhard-mueller-webanwendungen-erstellen-mit-python-sqlalchemy-und-flask.tar.gz)
 
 ## Audio
 
